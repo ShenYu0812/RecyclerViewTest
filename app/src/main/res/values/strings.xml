@@ -1,0 +1,16 @@
+<!--
+  ~  Copyright (c) 2016.  Project TestProject
+  ~  Source strings.xml
+  ~  Author 沈煜
+  ~  此源码及相关文档等附件由 沈煜 编写，作者保留所有权利
+  ~  使用必须注明出处。
+  ~  The code and documents is write by the author. All rights are reserved.
+  ~  Use must indicate the source.
+  ~
+  -->
+
+<resources>
+    <string name="app_name">TestProject</string>
+    <string name="hello_app">hello_app</string>
+    <string name="home_grid_item_icon">home_grid_item_icon</string>
+</resources>
